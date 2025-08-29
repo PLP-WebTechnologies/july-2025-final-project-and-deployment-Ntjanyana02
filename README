@@ -1,0 +1,21 @@
+# Final Project – Multipage Website
+
+**Live demo:** https://ntjanyana02.github.io/multipage-site/  
+**Classroom repo:** https://github.com/PLP-WebTechnologies/july-2025-final-project-and-deployment-Ntjanyana02
+
+## Overview
+Responsive multi-page site built with HTML5, modern CSS, and vanilla JS.
+
+## Pages
+- `index.html` – Home
+- `about.html` – About
+- `services.html` – Services
+- `contact.html` – Contact
+
+## How to run locally
+1. Clone the repo
+2. Open `index.html` in a browser (or serve with any static server)
+
+## Notes
+- Org permissions prevent enabling GitHub Pages on the classroom repo.
+- The code here mirrors the deployed site (see PR #1: `classroom-merge` → `main`).
